@@ -1,0 +1,26 @@
+{
+  "name": "hapi-rwredis",
+  "version": "1.0.0",
+  "description": "a Hapi module for storing redis client by Rathawut",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rathawut-l/hapi-rwredis.git"
+  },
+  "keywords": [
+    "hapi",
+    "redis"
+  ],
+  "author": "Rathawut Lertsuksakda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rathawut-l/hapi-rwredis/issues"
+  },
+  "homepage": "https://github.com/Rathawut-l/hapi-rwredis#readme",
+  "dependencies": {
+    "redis": "^2.6.2"
+  }
+}
