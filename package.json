@@ -1,6 +1,6 @@
 {
   "name": "hapi-rwredis",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "a Hapi module for storing redis client by Rathawut",
   "main": "lib/index.js",
   "scripts": {
